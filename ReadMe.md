@@ -1,0 +1,1 @@
+Given a java application, We would like to read the property file defined in HOCON (Human-Optimized Config Object Notation.) format. The property files use the suffix .conf e.g. application.conf, reference.conf. 
